@@ -1,3 +1,9 @@
+## 3.0.0
+
+* Upgrade `firebase_auth` dependency to v6
+* Requires iOS min deployment target `15.0` 
+* Android minSdk remains unchanged at `23`
+
 ## 2.2.1
 
 * Upgrade dependencies
