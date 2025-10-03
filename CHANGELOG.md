@@ -1,3 +1,7 @@
+## 3.0.1
+
+* Upgrade dependencies
+
 ## 3.0.0
 
 * Upgrade `firebase_auth` dependency to v6
