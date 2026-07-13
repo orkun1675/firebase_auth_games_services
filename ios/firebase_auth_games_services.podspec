@@ -13,7 +13,7 @@ The iOS platform implementation of the Flutter plugin `firebase_auth_games_servi
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Orkun Duman' => 'chunkytofustudios@gmail.com' }
   s.source           = { :path => '.' }
-  s.source_files = 'Classes/**/*'
+  s.source_files = 'firebase_auth_games_services/Sources/firebase_auth_games_services/**/*'
   s.dependency 'Flutter'
   s.platform = :ios, '12.0'
 
